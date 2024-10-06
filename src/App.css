@@ -60,7 +60,7 @@ nav{
 }
 
 .logo{
-  height: 80px;
+  height: 90px;
   margin-left: 5%
 
 }
@@ -72,14 +72,14 @@ nav{
 }
 
 .nav-text{
-  margin-top: 14px; 
+  margin-top: 7px; 
   display: flex;
 }
 
 .nav-list{
   list-style: none;
   display: flex;
-  padding-bottom: 25px;
+  padding-bottom: 7px;
 }
 
 .nav-item{
@@ -224,7 +224,7 @@ nav{
 }
 
 .course-head {
-  margin-top: 80px;
+  margin-top: 30px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -241,7 +241,7 @@ nav{
 
 .search h2 {
   font-size: 4rem;
-  font-weight: 700;
+  font-weight: 500;
   color: white;
   margin-right: 20px;
 }

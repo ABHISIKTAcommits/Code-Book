@@ -12,6 +12,8 @@ function Navbar() {
                     <ul className="nav-list">
                         <li className="nav-item"><a href="#explore">Courses</a></li>
                         <li className="nav-item"><a href="#testimonal">Testimonals</a></li>
+                        <li className="nav-item"><a href="#contest">Contest</a></li>
+                        <li className="nav-item"><a href="#practice">Practice</a></li>
                         <li className="nav-item"><a href="#contact">Contact</a></li>
                     </ul>
                 </div>
